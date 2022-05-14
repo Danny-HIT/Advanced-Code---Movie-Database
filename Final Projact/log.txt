@@ -1,0 +1,889 @@
+
+the user entered the ID : admin
+the user entered the password : admin
+Current computer time: 30/01/2020, 13:56
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 13:56
+
+A new user has been created, with an ID yuval and a Full name yuval_yuval
+Current computer time: 30/01/2020, 13:56
+
+A new user has been created, with an ID daniel and a Full name daniel_daniel
+Current computer time: 30/01/2020, 13:57
+
+A new user has been created, with an ID matan and a Full name matan_matan
+Current computer time: 30/01/2020, 13:57
+
+A new user has been created, with an ID c and a Full name c_c
+Current computer time: 30/01/2020, 13:57
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 13:57
+
+The user selected the to view all the items
+Current computer time: 30/01/2020, 13:58
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 13:58
+
+The user selected the to view all the items
+Current computer time: 30/01/2020, 13:58
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 13:58
+
+The user selected the to view all the users
+Current computer time: 30/01/2020, 13:59
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 13:59
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:01
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:01
+
+The user selected the to view all the items
+Current computer time: 30/01/2020, 14:01
+
+The user selected the to view all the users
+Current computer time: 30/01/2020, 14:01
+
+The user with the ID 7600688 has been deleted
+Current computer time: 30/01/2020, 14:03
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:05
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:05
+
+A new user has been created, with an ID daniel and a Full name daniel_daniel
+Current computer time: 30/01/2020, 14:05
+
+The user with the ID daniel has been deleted
+Current computer time: 30/01/2020, 14:05
+
+The user selected the to view all the items
+Current computer time: 30/01/2020, 14:06
+
+The user selected the to view all the users
+Current computer time: 30/01/2020, 14:06
+
+A new movie has been created: movie_name:The_Terminator 
+producer_name:McG 
+release_date:20090521  
+serial_number:1  
+rating:6.5  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:08
+
+A new movie has been created: movie_name:Avatar 
+producer_name:James_Cameron 
+release_date:20091218  
+serial_number:2  
+rating:7.8  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:10
+
+A new movie has been created: movie_name:Parasite 
+producer_name:Bong_Joon_Ho 
+release_date:20191108  
+serial_number:3  
+rating:8.6  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:10
+
+A new movie has been created: movie_name:Marriage_Story 
+producer_name:Noah_Baumbach 
+release_date:20191206  
+serial_number:4  
+rating:8.1  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:12
+
+A new movie has been created: movie_name:The_Report 
+producer_name:Scott_Z._Burns 
+release_date:20191115  
+serial_number:5  
+rating:7.2  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:15
+
+A new movie has been created: movie_name:The_Godfather 
+producer_name:Francis_Ford_Coppola„è,33A 
+release_date:19720324  
+serial_number:6  
+rating:9.2  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:17
+
+A new movie has been created: movie_name:The_Dark_Knight 
+producer_name:Christopher_Nolan 
+release_date:20080618  
+serial_number:7  
+rating:9.0  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:18
+
+A new movie has been created: movie_name:Two_Girls_One_Cup 
+producer_name:Matan_Shimon 
+release_date:20030121  
+serial_number:8  
+rating:1.0  
+is adult video? :  yesCurrent computer time: 30/01/2020, 14:19
+
+A new movie has been created: movie_name:Pulp_Fiction 
+producer_name:Quentin_Tarantino 
+release_date:19941014  
+serial_number:9  
+rating:8.9  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:19
+
+A new movie has been created: movie_name:Rashomon 
+producer_name:Akira_Kurosawa 
+release_date:19511226  
+serial_number:10  
+rating:8.2  
+is adult video? :  yesCurrent computer time: 30/01/2020, 14:21
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:22
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:22
+
+The user selected the to view all the users
+Current computer time: 30/01/2020, 14:22
+
+The user selected the to view all the items
+Current computer time: 30/01/2020, 14:22
+
+A new movie has been created: movie_name:Warrior 
+producer_name:Gavin_O'Connor 
+release_date:20110909  
+serial_number:11  
+rating:8.2  
+is adult video? :  yesCurrent computer time: 30/01/2020, 14:25
+
+A new movie has been created: movie_name:Logan 
+producer_name:James_Mangold 
+release_date:20170303  
+serial_number:12  
+rating:8.1  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:26
+
+A new movie has been created: movie_name:Inception 
+producer_name:Christopher_Nolan 
+release_date:20100616  
+serial_number:13  
+rating:8.8  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:29
+
+A new movie has been created: movie_name:The_Matrix 
+producer_name:Lana_Wachowski 
+release_date:19990331  
+serial_number:14  
+rating:8.7  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:30
+
+A new movie has been created: movie_name:Interstellar 
+producer_name:Christopher_Nolan 
+release_date:20141107  
+serial_number:15  
+rating:8.6  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:32
+
+A new movie has been created: movie_name:Girl_Oh_Girl 
+producer_name:kawasaki_bamba 
+release_date:20200130  
+serial_number:16  
+rating:6.3  
+is adult video? :  yesCurrent computer time: 30/01/2020, 14:33
+
+A new movie has been created: movie_name:The_Departed 
+producer_name:Martin_Scorsese 
+release_date:20061006  
+serial_number:17  
+rating:8.5  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:35
+
+A new movie has been created: movie_name:Shrek 
+producer_name:Andrew_Adamson 
+release_date:20010518  
+serial_number:18  
+rating:7.8  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:36
+
+A new movie has been created: movie_name:Ice_Age 
+producer_name:Chris_Wedge 
+release_date:20020315  
+serial_number:19  
+rating:7.5  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:37
+
+A new movie has been created: movie_name:Cars 
+producer_name:John_Lasseter 
+release_date:20060609  
+serial_number:20  
+rating:7.1  
+is adult video? :  noCurrent computer time: 30/01/2020, 14:38
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:40
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:40
+
+A new movie has been created: movie_name:Barbara 
+producer_name:The_Jo 
+release_date:20040505  
+serial_number:21  
+rating:6.3  
+is adult video? :  yes
+Current computer time: 30/01/2020, 14:41
+
+the user entered the ID : daniel
+the user entered the password : 1
+Current computer time: 30/01/2020, 14:43
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:43
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:43
+
+The user selected the to view all the users
+Current computer time: 30/01/2020, 14:43
+
+The user selected the to view all the items
+Current computer time: 30/01/2020, 14:44
+
+The user made some updates with the serial number(movie): 21
+Current computer time: 30/01/2020, 14:44
+
+The serial number(movie) with the Serial Number 21 has been deleted
+Current computer time: 30/01/2020, 14:45
+
+The user made a search for release date and backward
+Current computer time: 30/01/2020, 14:46
+
+The user made a search for release date and further
+Current computer time: 30/01/2020, 14:47
+
+The user made a search for release date and further
+Current computer time: 30/01/2020, 14:48
+
+The user with the ID 20002020 has been deleted
+Current computer time: 30/01/2020, 14:49
+
+The user selected the to view all the users
+Current computer time: 30/01/2020, 14:50
+
+The user made a search for release date and backward
+Current computer time: 30/01/2020, 14:50
+
+The user made a search for SFW movies
+Current computer time: 30/01/2020, 14:51
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:52
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:52
+
+The user made a search for the name a
+Current computer time: 30/01/2020, 14:53
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:53
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:53
+
+The user made a search for the name asdf
+Current computer time: 30/01/2020, 14:53
+
+The user made a search for the name adf
+Current computer time: 30/01/2020, 14:53
+
+The user made a search for the name a
+Current computer time: 30/01/2020, 14:54
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:55
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:55
+
+The user made a search for the name a
+Current computer time: 30/01/2020, 14:55
+
+The user made a search for the name Avatar
+Current computer time: 30/01/2020, 14:55
+
+The user made a search(serial number goes up) for 10
+Current computer time: 30/01/2020, 14:56
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 14:57
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 14:57
+
+A new user has been created, with an ID daniel and a Full name daniel_daniel
+Current computer time: 30/01/2020, 14:57
+
+The serial number(movie) with the Serial Number 55 has been deleted
+Current computer time: 30/01/2020, 14:57
+
+The user selected the to view all the items
+Current computer time: 30/01/2020, 14:58
+
+The user with the ID 5 has been deleted
+Current computer time: 30/01/2020, 14:59
+
+A new movie has been created: movie_name:Cara 
+producer_name:John_Boltzman 
+release_date:19920401  
+serial_number:20  
+rating:5.2  
+is adult video? :  yes
+Current computer time: 30/01/2020, 15:00
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 15:13
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 15:13
+
+The user made a search for the name Avatar
+Current computer time: 30/01/2020, 15:13
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 30/01/2020, 15:14
+
+A user with security level 3 logged in
+Current computer time: 30/01/2020, 15:14
+
+The user made a search for the name Avatar
+Current computer time: 30/01/2020, 15:14
+
+The user made a search for the name Avatar
+Current computer time: 30/01/2020, 15:14
+
+the user entered the ID : 
+the user entered the password : 
+Current computer time: 31/01/2020, 09:15
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:15
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:15
+
+The user made a search for the name Avatar
+Current computer time: 31/01/2020, 09:15
+
+The user made a search(serial number goes up) for 15
+Current computer time: 31/01/2020, 09:16
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:17
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:17
+
+The user made a search(serial number goes up) for 15
+Current computer time: 31/01/2020, 09:17
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:19
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:19
+
+The user made a search(serial number goes up) for 15
+Current computer time: 31/01/2020, 09:19
+
+The user made a search(serial number goes up) for 15
+Current computer time: 31/01/2020, 09:19
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:35
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:35
+
+The serial number(movie) with the Serial Number 88 has been deleted
+Current computer time: 31/01/2020, 09:36
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:47
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:47
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:49
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:49
+
+The user made a search(serial number goes up) for 17
+Current computer time: 31/01/2020, 09:49
+
+The user made a search(serial number goes up) for 17
+Current computer time: 31/01/2020, 09:49
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:52
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:52
+
+The user made a search(serial number goes up) for 17
+Current computer time: 31/01/2020, 09:52
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:54
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:54
+
+The user made a search(serial number goes up) for 18
+Current computer time: 31/01/2020, 09:54
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 09:59
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 09:59
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 09:59
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 09:59
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 10:00
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 10:00
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:00
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:00
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 10:01
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 10:01
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:01
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:01
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 10:02
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 10:02
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:02
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:02
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 10:03
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 10:03
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:03
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:03
+
+The user made a search(serial number goes up) for 19
+Current computer time: 31/01/2020, 10:03
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 10:28
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 10:28
+
+The user made a search(serial number goes up) for 17
+Current computer time: 31/01/2020, 10:28
+
+The user made a search(serial number goes up) for 17
+Current computer time: 31/01/2020, 10:28
+
+the user entered the ID : admin
+the user entered the password : admin
+Current computer time: 31/01/2020, 10:30
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 10:30
+
+A new user has been created, with an ID daniel and a Full name daniel_daniel
+Current computer time: 31/01/2020, 10:31
+
+The user selected the to view all the users
+Current computer time: 31/01/2020, 10:31
+
+The user with the ID yuval has been deleted
+Current computer time: 31/01/2020, 10:32
+
+The user selected the to view all the users
+Current computer time: 31/01/2020, 10:32
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 31/01/2020, 10:34
+
+A user with security level 3 logged in
+Current computer time: 31/01/2020, 10:34
+
+The user selected the to view all the users
+Current computer time: 31/01/2020, 10:34
+
+A new user has been created, with an ID matan and a Full name matan_matan
+Current computer time: 31/01/2020, 10:34
+
+The user selected the to view all the users
+Current computer time: 31/01/2020, 10:35
+
+The user with the ID daniel has been deleted
+Current computer time: 31/01/2020, 10:35
+
+The user selected the to view all the users
+Current computer time: 31/01/2020, 10:35
+
+The user selected the to view all the items
+Current computer time: 31/01/2020, 10:35
+
+The user made a search for the name Avatar
+Current computer time: 31/01/2020, 10:36
+
+The user made a search for the name Avatar
+Current computer time: 31/01/2020, 10:36
+
+The user made a search(serial number goes up) for 17
+Current computer time: 31/01/2020, 10:37
+
+The user made a search(serial number goes up) for 17
+Current computer time: 31/01/2020, 10:37
+
+The user made a search(serial number goes down) for 5
+Current computer time: 31/01/2020, 10:37
+
+The user made a search(serial number goes down) for 5
+Current computer time: 31/01/2020, 10:37
+
+The user made a search for NSFW movies
+Current computer time: 31/01/2020, 10:38
+
+The user made a search for NSFW movies
+Current computer time: 31/01/2020, 10:38
+
+The user made a search for SFW movies
+Current computer time: 31/01/2020, 10:38
+
+The user made a search for release date and further
+Current computer time: 31/01/2020, 10:38
+
+The user made a search for release date and backward
+Current computer time: 31/01/2020, 10:39
+
+the user entered the ID : admin
+the user entered the password : admin
+Current computer time: 01/02/2020, 13:02
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:02
+
+the user entered the ID : admin
+the user entered the password : admin
+Current computer time: 01/02/2020, 13:04
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:04
+
+the user entered the ID : admin
+the user entered the password : admin
+Current computer time: 01/02/2020, 13:04
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:04
+
+the user entered the ID : admin
+the user entered the password : admin
+Current computer time: 01/02/2020, 13:05
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:05
+
+The user made a search for the name Avatar
+Current computer time: 01/02/2020, 13:05
+
+The user selected the to view all the users
+Current computer time: 01/02/2020, 13:06
+
+The user selected the to view all the items
+Current computer time: 01/02/2020, 13:06
+
+The user made a search for release date and further
+Current computer time: 01/02/2020, 13:07
+
+The user made a search for release date and further
+Current computer time: 01/02/2020, 13:08
+
+The user made canceled the search
+Current computer time: 01/02/2020, 13:08
+
+the user entered the ID : admin
+the user entered the password : admin
+Current computer time: 01/02/2020, 13:08
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:08
+
+The user selected the to view all the items
+Current computer time: 01/02/2020, 13:08
+
+The serial number(movie) with the Serial Number 19 has been deleted
+Current computer time: 01/02/2020, 13:09
+
+The user selected the to view all the items
+Current computer time: 01/02/2020, 13:09
+
+The user made some updates with the serial number(movie): 18
+Current computer time: 01/02/2020, 13:09
+
+The user selected the to view all the items
+Current computer time: 01/02/2020, 13:10
+
+The user made canceled the search
+Current computer time: 01/02/2020, 13:10
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:14
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:14
+
+The user made canceled the search
+Current computer time: 01/02/2020, 13:14
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:16
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:16
+
+The user made canceled the search
+Current computer time: 01/02/2020, 13:17
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:19
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:19
+
+The user made canceled the search
+Current computer time: 01/02/2020, 13:19
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:23
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:23
+
+The user made a search for the name Avatar
+Current computer time: 01/02/2020, 13:23
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:26
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:26
+
+The user made a search for the name Avatar
+Current computer time: 01/02/2020, 13:26
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:28
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:28
+
+The user made canceled the search
+Current computer time: 01/02/2020, 13:28
+
+The user made a search for SFW movies
+Current computer time: 01/02/2020, 13:28
+
+The serial number(movie) with the Serial Number 6 has been deleted
+Current computer time: 01/02/2020, 13:30
+
+The user selected the to view all the items
+Current computer time: 01/02/2020, 13:30
+
+A new movie has been created: movie_name:1917 
+producer_name:sam_mendes 
+release_date:20191212  
+serial_number:18  
+rating:8.5  
+is adult video? :  yes
+Current computer time: 01/02/2020, 13:33
+
+A new movie has been created: movie_name:terminator 
+producer_name:tim_miller 
+release_date:20190501  
+serial_number:19  
+rating:6.3  
+is adult video? :  no
+Current computer time: 01/02/2020, 13:34
+
+A new movie has been created: movie_name:aladdin 
+producer_name:disney 
+release_date:20190604  
+serial_number:20  
+rating:7.0  
+is adult video? :  no
+Current computer time: 01/02/2020, 13:35
+
+The user selected the to view all the items
+Current computer time: 01/02/2020, 13:35
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:36
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:36
+
+The user made a search for the name 1917
+Current computer time: 01/02/2020, 13:36
+
+The user made a search for release date and further
+Current computer time: 01/02/2020, 13:37
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:39
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:39
+
+The user made a search for SFW movies
+Current computer time: 01/02/2020, 13:39
+
+The user selected the to view all the items
+Current computer time: 01/02/2020, 13:39
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:40
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:40
+
+The user made a search(serial number goes up) for 17
+Current computer time: 01/02/2020, 13:40
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:42
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:42
+
+The user made a search for NSFW movies
+Current computer time: 01/02/2020, 13:42
+
+The user made a search for SFW movies
+Current computer time: 01/02/2020, 13:42
+
+The user made a search for SFW movies
+Current computer time: 01/02/2020, 13:42
+
+The user made a search for release date and further
+Current computer time: 01/02/2020, 13:42
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:43
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:43
+
+The user made a search for release date and further
+Current computer time: 01/02/2020, 13:44
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:44
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:44
+
+The user made a search for release date and further
+Current computer time: 01/02/2020, 13:44
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:44
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:44
+
+The user made a search for release date and further
+Current computer time: 01/02/2020, 13:45
+
+the user entered the ID : c
+the user entered the password : c
+Current computer time: 01/02/2020, 13:46
+
+A user with security level 3 logged in
+Current computer time: 01/02/2020, 13:46
+
+The user made a search(serial number goes up) for 15
+Current computer time: 01/02/2020, 13:46

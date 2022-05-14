@@ -1,0 +1,28 @@
+﻿  Source.c
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(42,11): warning C4133: 'function': incompatible types - from 'char *' to 'FILE *const '
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(61,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(81,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(104,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(145,8): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(91,7): warning C4101: 'loction_in_file': unreferenced local variable
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(228,54): warning C4013: 'SN_generator' undefined; assuming extern returning int
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(252,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(286,8): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(380,8): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(360,25): warning C4101: 'is_adult': unreferenced local variable
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(448,8): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(478,8): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(543,15): warning C4013: 'strcmp_' undefined; assuming extern returning int
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(552,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(565,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(578,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(589,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(600,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(613,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(626,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(632,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(762,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(791,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(832,9): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Final Projact\Source.c(716,7): warning C4101: 'new_node': unreferenced local variable
+  Final Projact.vcxproj -> C:\Users\danie\OneDrive\שולחן העבודה\New folder (3)\Final Projact by m\Debug\Final Projact.exe
